@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "package": "com.appliberated.helloworldselfaware",
+  "apk_info": {
+    "type": "single",
+    "folder": "/HelloWorldSelfAware-1.1.0-android.apk"
+  }
+}
